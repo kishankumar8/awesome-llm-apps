@@ -258,7 +258,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     pip install -r requirements.txt
     ```
 
-4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app**.
 
 
 ### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
